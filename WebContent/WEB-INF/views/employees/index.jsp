@@ -51,5 +51,3 @@
 
     </c:param>
 </c:import>
-
-        </div>
